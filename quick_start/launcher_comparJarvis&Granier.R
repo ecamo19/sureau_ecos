@@ -19,6 +19,7 @@ output_path               <- paste0(mainDir,'/quick_start/example_output_subdail
 source(paste0(mainDir,'/functions/load.SurEau_Ecos.R')) # do not modify 
 # Create input list files and define options -----------------------------------
 
+
 modeling_options <- create.modeling.options(transpirationModel = c('Jarvis'),
                                             constantClimate = F)
 
