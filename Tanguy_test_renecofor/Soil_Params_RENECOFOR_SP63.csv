@@ -1,0 +1,22 @@
+Name;Value
+RFC_1;57.9
+RFC_2;54.92
+RFC_3;70
+field_capacity;0.38
+wilting_point;0.12379
+alpha_vg;0.0254333333333333
+n_vg;1.285
+I_vg;0.5
+Ksat_vg;9.9181
+saturation_capacity_vg;0.559766666666667
+residual_capacity_vg;0.1115
+gSoil0;30
+depth1;0.3
+depth2;0.7
+depth3;4
+offSetPsoil;0.3
+b_camp;-6
+psie; -0.025
+saturation_capacity_campbell;0.39
+Ksat_campbell;1.69
+PedoTransferFormulation;VG
