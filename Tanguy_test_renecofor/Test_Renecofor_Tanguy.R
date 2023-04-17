@@ -29,13 +29,7 @@ write.table(datarene, "Tanguy_test_renecofor/datarene_tanguy.csv", sep = ";", de
 climateData_path          <- paste0(mainDir,'/Tanguy_test_renecofor/datarene_tanguy.csv')
 soilParameters_path       <- paste0(mainDir,'/Tanguy_test_renecofor/Soil_Params_RENECOFOR_SP63.csv')
 vegetationParameters_path <- paste0(mainDir,'/Tanguy_test_renecofor/vegetation_Abies_alba.csv')
-
-
 output_path               <- paste0(mainDir,'/Tanguy_test_renecofor/example_output_subdaily.csv')
-
-
-
-
 
 # Load model -------------------------------------------------------------------
 source(paste0(mainDir,'/functions/load.SurEau_Ecos.R')) # do not modify 
