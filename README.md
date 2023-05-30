@@ -1,6 +1,6 @@
 # SurEau_V2
-This updated version of sureau is here
--- SurEau-Ecos_v2.0.x --
+The updated version of sureau is here
+-- SurEau-Ecos_v2.1 --
 
 SurEau-Ecos is a mechanistic plant water model designed to simulated plant dessication and hydraulic failure. It computes water fluxes, turgor loss, cavitation, water content of symplasm and apoplasm for canopy leaves and stems. It uses soil properties, daily climate inputs and of leaf and hydraulic traits.
 
